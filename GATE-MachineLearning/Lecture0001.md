@@ -48,7 +48,7 @@
     * > I will be teaching Machine learning and artificial intelligence
     * > Sir what about Question paper reference ?
     * > I will refer NPTEL assignment for the level
-    * > 2 university - I will refer MIT courses assignments and Standford assignments
+    * > 2 university - I will refer MIT courses assignments and Standford assignments. And also Berkeley
     * We won't go into Hi-Fi. Till 2025 and 2026 it will be easy
 * Subject 7 - Artificial Intelligence
     * It's syllabus is bit short
