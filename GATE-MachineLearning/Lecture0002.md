@@ -49,3 +49,6 @@
 
 > Siddharth Sabharwal
 > 2 times AIR 1 from Electronics in 2021 and 2023  
+> All classes will be GATE oriented
+> It is not AI-ML Degree course. Don't expect that it will be kind of a college degree course  
+> Also complete homework which I give to you
