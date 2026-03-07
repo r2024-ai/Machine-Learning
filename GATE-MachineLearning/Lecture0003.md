@@ -20,3 +20,19 @@ Lets start with a basics
 ![alt text](image-5.png)
 
 ![alt text](image-6.png)
+
+How you will predict/find the value of y for new x?  
+
+So strategy will be predict a relationship between y and x  
+i.e. y = f(x)  
+
+and now simply put new value of x into the f(x) to get y.  
+
+![alt text](image-7.png)
+
+![alt text](image-8.png)
+
+There are infinite ways to draw a curve satisfying above points
+
+Now let's understand above with terminologies  
+
